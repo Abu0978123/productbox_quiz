@@ -1,0 +1,10 @@
+a{
+   text-decoration: none;
+}
+
+.box {
+  display: flex;
+  /* flex-flow: column; */
+  flex-wrap: wrap;
+  /* height: 100vh; */
+}
